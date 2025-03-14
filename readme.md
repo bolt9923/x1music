@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/q8hcg3.jpg" align="right" width="200" height="200"/>
+<img src="https://files.catbox.moe/jcmk15.jpg" align="right" width="200" height="200"/>
 
 𝗚𝗮𝗮𝗻𝗮  𝗠𝘂𝘀𝗶𝗰  🎶 <img src="https://img.shields.io/github/v/release/TeamDns/DnsXMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
